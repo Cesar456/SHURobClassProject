@@ -1,0 +1,85 @@
+
+<div>
+<div style="font-weight:bolder;color:Blue;">选课结果</div>
+
+    
+    <table class="tbllist">
+        <tr>
+            <td colspan="20" style="background:red;text-align:center;">
+                选课失败课程
+            </td>
+        </tr>
+        <tr>
+            <th>
+            </th>
+            <th>
+                课程号
+
+            </th>
+            <th>
+                课程名
+
+            </th>
+            <th>
+                教师号
+
+            </th>
+            <th>
+                教师名
+
+            </th>
+            <th>
+                学分
+            </th>
+            <th>
+                上课时间
+            </th>
+            <th>
+                上课地点
+            </th>
+            <th>
+                校区
+            </th>
+            <th>
+                失败原因
+            </th>
+        </tr>
+        
+        <tr>
+            <td>
+                1
+            </td>
+            <td>
+                15576090
+            </td>
+            <td>
+                货币银行
+            </td>
+            <td>
+                2000
+            </td>
+            <td>
+                李双
+            </td>
+            <td>
+                4
+            </td>
+            <td>
+                二7-8 四7-8
+            </td>
+            <td>
+                
+            </td>
+            <td>
+                嘉定
+            </td>
+            <td>
+                教学班人数已满
+            </td>
+        </tr>
+        
+    </table>
+        
+    </table>
+        
+</div>
