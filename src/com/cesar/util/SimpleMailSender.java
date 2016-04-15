@@ -1,4 +1,4 @@
-package com.cesar.util;
+﻿package com.cesar.util;
 
 import java.util.List;
 import java.util.Properties;
@@ -50,7 +50,7 @@ public class SimpleMailSender {
 	
 	public static SimpleMailSender getInstance(){
 		if(sender==null){
-			sender = new SimpleMailSender("fubaidelong@126.com", "chen724467110");
+			sender = new SimpleMailSender("**", "**");
 		}
 		return sender;
 	}

@@ -1,4 +1,4 @@
-package com.cesar.service;
+﻿package com.cesar.service;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -32,8 +32,8 @@ public class RefreshCourse {
 	private static final String queryCourse = "http://xk.autoisp.shu.edu.cn:8080/StudentQuery/CtrlViewQueryCourse";
 	private static final String chooseCourse = "http://xk.autoisp.shu.edu.cn:8080/CourseSelectionStudent/CtrlViewOperationResult";
 	
-	private static final String userName = "13124839";
-	private static final String passWord = "Bess941018";
+	private static final String userName = "**";
+	private static final String passWord = "**";
 	private static String valid = "";
 	
 	private Scanner scanner = new Scanner(System.in);
